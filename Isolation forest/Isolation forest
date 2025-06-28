@@ -1,1 +1,4 @@
+Data set: https://www.kaggle.com/datasets/arockiaselciaa/creditcardcsv
+Due to data privacy constraints, the attributes are masked under the variables v1, v2, …, v28, amount, and class.
+Used feature selection : to remove the useless features
 
